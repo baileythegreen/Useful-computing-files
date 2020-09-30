@@ -1,0 +1,21 @@
+theme: jekyll-theme-architect
+title: "Customising the Unix Experience"
+description: "This site serves two purposes: 1) It houses some useful configuration files for customising a Unix environment; 2) I'm using it to experiment with github pages."
+
+# Additionally, you may choose to set the following optional variables:
+
+show_downloads: ["true"]
+#google_analytics: [Your Google Analytics tracking ID]
+
+# Magic to make URLs resolve both locally and on GitHub.
+# See https://help.github.com/articles/repository-metadata-on-github-pages/.
+# Please don't change it: <USERNAME>/<PROJECT> is correct.
+repository: <USERNAME>/<PROJECT>
+
+#exclude:
+#  - Makefile
+#  - bin/
+#  - .Rproj.user/
+
+# Turn on built-in syntax highlighting.
+highlighter: rouge
