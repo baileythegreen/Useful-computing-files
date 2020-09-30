@@ -1,5 +1,5 @@
 theme: jekyll-theme-architect
-title: "Customising the Unix Experience"
+title: "Customising the Unix Environment" # Experience"
 description: "This site serves two purposes: 1) It houses some useful configuration files for customising a Unix environment; 2) I'm using it to experiment with github pages."
 
 # Additionally, you may choose to set the following optional variables:
