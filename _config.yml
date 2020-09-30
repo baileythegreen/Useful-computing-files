@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-architect-bailey
 title: "Customising the Unix Environment" # Experience"
 description: "This site serves two purposes:\n1) It houses some useful configuration files for customising a Unix environment;\n2) I'm using it to experiment with github pages."
 
