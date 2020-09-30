@@ -5,4 +5,4 @@ title: "Home"
 permalink: /home
 
 ---
-Has this updated?
+Added architect theme line.
