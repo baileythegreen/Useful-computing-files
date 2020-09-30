@@ -1,5 +1,5 @@
 ---
-
+theme: jekyll-theme-architect
 layout: page
 title: "Home"
 permalink: /home
