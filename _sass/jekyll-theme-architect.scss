@@ -23,6 +23,16 @@ a:hover {
   color: #2268b2;
 }
 
+.centered-and-cropped { object-fit: cover }
+
+.row{
+  width:80px;
+  height:50px;
+  background-image: url(https://aem.dropbox.com/cms/content/dam/dropbox/www/en-us/branding/dropbox-logo@2x.jpg);
+  background-size:cover;
+  background-position:center;
+}
+
 header {
   padding-top: 40px;
   padding-bottom: 40px;
