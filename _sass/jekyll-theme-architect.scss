@@ -23,7 +23,11 @@ a:hover {
   color: #2268b2;
 }
 
-.centered-and-cropped { object-fit: cover }
+.centered-and-cropped { 
+  width:80px;
+  height:50px;
+  object-fit: cover;
+}
 
 .row{
   width:80px;
