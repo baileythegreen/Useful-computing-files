@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-architect
-layout: post
+layout: page
 title: "About"
 description: "This page should contain information about the project."
 permalink: /about/
