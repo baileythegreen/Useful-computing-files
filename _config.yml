@@ -1,9 +1,7 @@
 #remote_theme: baileythegreen/Customising-the-Unix-Experience
 theme: jekyll-theme-architect
 title: "Customising the Unix Environment" # Experience"
-description: "This site serves two purposes:
-It houses some useful configuration files for customising a Unix environment;
-2) I'm using it to experiment with github pages."
+description: "I'm using this site to experiment with github pages."
 
 # Additionally, you may choose to set the following optional variables:
 
