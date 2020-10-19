@@ -2,7 +2,7 @@
 theme: jekyll-theme-architect
 title: "Customising the Unix Environment" # Experience"
 description: "I'm using this site to experiment with github pages."
-
+url: "https://baileythegreen.github.io/Customising-the-Unix-Experience"
 # Additionally, you may choose to set the following optional variables:
 
 show_downloads: ["true"]

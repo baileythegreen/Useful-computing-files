@@ -2,6 +2,7 @@
 theme: jekyll-theme-architect
 title: "Customising the Unix Environment" # Experience"
 description: "I'm using this site to experiment with github pages."
+url: http://127.0.0.1:4000/
 
 # Additionally, you may choose to set the following optional variables:
 

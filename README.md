@@ -1,8 +1,5 @@
-Hello, world.
-
-
-### [  About](https://baileythegreen.github.io/Customising-the-Unix-Experience/about)
-### [  Home](https://baileythegreen.github.io/Customising-the-Unix-Experience/home) 
-### [  Browse files](https://baileythegreen.github.io/Customising-the-Unix-Experience/browse_files) 
-
-### [test](https://baileythegreen.github.io/Customising-the-Unix-Experience/test) 
+### Title
+Here is some regular text.
+### Another title
+<img src="https://imgs.xkcd.com/comics/chemist_eggs.png">
+### A third title
