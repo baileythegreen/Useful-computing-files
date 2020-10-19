@@ -24,3 +24,5 @@ plugins:
 # Turn on built-in syntax highlighting.
 highlighter: rouge
 github: [metadata]
+github:
+  is_project_page: true
