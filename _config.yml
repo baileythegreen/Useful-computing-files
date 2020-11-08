@@ -12,6 +12,7 @@ show_downloads: ["true"]
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
 repository: <USERNAME>/<PROJECT>
+url: "http://baileythegreen.com"
 
 #exclude:
 #  - Makefile
