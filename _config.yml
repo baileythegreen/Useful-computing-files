@@ -1,7 +1,15 @@
 #remote_theme: baileythegreen/Customising-the-Unix-Experience
-theme: jekyll-theme-architect
-title: "Customising the Unix Environment" # Experience"
-description: "I'm using this site to experiment with github pages."
+#url: https://baileythegreen.com
+title: "baileythegreen"
+repository: baileythegreen/baileythegreen.com
+github: [metadata]
+description: "A website."
+
+
+#google_analytics: [Google Analytics tracking ID]
+
+plugins:
+ - jekyll-github-metadata
 
 # Additionally, you may choose to set the following optional variables:
 
@@ -11,7 +19,7 @@ show_downloads: ["true"]
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
-repository: <USERNAME>/<PROJECT>
+#repository: <USERNAME>/<PROJECT>
 url: "http://baileythegreen.com"
 
 #exclude:
