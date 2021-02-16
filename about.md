@@ -1,9 +1,7 @@
 ---
-theme: jekyll-theme-architect
-layout: page
+layout: profile
 title: "About"
-description: "This page should contain information about the project."
+description: "A bit about me."
 permalink: /about/
 ---
 
-Some actual content.
