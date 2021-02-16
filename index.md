@@ -1,8 +1,7 @@
 ---
-theme: jekyll-theme-architect
 layout: page
 title: "Home"
-permalink: /home
-
+permalink: /
 ---
-Added architect theme line.
+
+
