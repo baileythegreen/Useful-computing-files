@@ -1,6 +1,6 @@
 ---
 layout: main
-title: "Home"
+title: "Contact"
 permalink: /about/contact
 ---
 
