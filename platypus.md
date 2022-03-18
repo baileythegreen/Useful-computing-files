@@ -50,3 +50,5 @@ Rigid adherence to existing ideas—even ones that have come from the scientific
 Adaptability and evolution of our processes, ideas, and how we view the world is the only way science can further our understanding of reality.
 
 But the truth isn't something we'll ever *reach*. Our understanding will get better, but there'll always be information we lack.
+
+/fin
