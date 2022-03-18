@@ -1,3 +1,14 @@
+---
+layout: main
+title: "Platypus"
+permalink: /threads/platypus
+---
+
+# Science and the Platypus
+*Originally posted as a [twitter thread](https://twitter.com/baileythegreen/status/1504481983128166406) on 17 March 2022.*
+
+***
+
 A [recent thread about the platypus](https://twitter.com/vagina_museum/status/1504458892692045824?s=20&t=3ehiWYO4ix6DzSpd4RPQ3g) from @vagina_museum gave a great example of biological realities refusing to conform to categories humans delineate and of our scientific understanding of reality evolving when new evidence is presented.
 
 I'd like to expand on how this actually works when we conduct research.
