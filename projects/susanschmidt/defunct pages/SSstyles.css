@@ -1,0 +1,74 @@
+/* CSS Document */
+body,td,th {
+	font-size: 12px;
+	color: #555555;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	
+}
+body {
+	bgcolor: #ffffff;
+}
+a {
+	font-size: 12px;
+	color: #af8cb4;
+	font-family:"Times New Roman", Times, serif
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #af8cb4;
+}
+a:hover {
+	text-decoration: underline;
+	color: #96709b;
+}
+a:active {
+	text-decoration: none;
+	color: #af8cb4;
+}
+
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #CCCCCC;
+}
+.whitelink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+.bottomlink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #af8cb4;
+}
+.verdanalink{
+	font-size: 12px;
+	color: #af8cb4;
+	font-family:Verdana, Arial, Helvetica, sans-serif
+}
+
+.verdanalink:hover{
+	text-decoration: underline;
+}
+
+.footerText {
+	font-size:10px; 
+	color: #999;
+}
+
+p.big {line-height:150%;}

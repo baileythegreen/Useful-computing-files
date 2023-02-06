@@ -1,0 +1,193 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* HTML
+========================================================*/
+* { margin:0; border:0; padding:0; }
+body { background-color:#ffffff; background-image:url(img/map_bg.jpg);}
+
+
+/* MAJOR PARTS
+========================================================*/
+
+.wrapper { position:relative; margin:0 auto;  background:#fff; width:950px;}
+
+.break { clear:both; float:none; font-size:0; line-height:0; }
+
+.across { width:100%; }
+
+
+.mainpage {margin: auto; width: 950px;}
+
+
+.container {width:950px;}
+
+.center3 { padding:30px 30px 30px 30px; font:14px/24px verdana, arial; color:#555555; overflow:hidden; width:90%;}
+
+.content3 { width:950px; background-color:#ffffff; }
+
+img.floatLeft {
+    float: left;
+	padding: 10px 30px 10px 30px;
+    margin: 4px;
+}
+img.floatRight {
+    float: right;
+	 padding: 10px 30px 10px 30px;
+    margin: 4px;
+}
+
+
+.a {
+	font-size: 16px;
+	color: #af8cb4;
+	font-family:"Times New Roman", Times, serif
+}
+a:link {
+	text-decoration: underline;
+}
+a:visited {
+	text-decoration: none;
+	color: #af8cb4;
+}
+a:hover {
+	text-decoration: underline;
+	color: blue;/*#96709b;*/
+}
+a:active {
+	text-decoration: none;
+	color: #af8cb4;
+}
+#navMain { background:url(img/navigation/nav_bg.jpg); clear:both; float:none; background-repeat:repeat-x; width:950px; height:31px;}
+
+.books-rectangle {
+  height: 500px;
+  width: 500px;
+  background-color: #7F7BDA;
+  padding-left: 30px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  color: white;
+  margin: auto;
+}
+
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #CCCCCC;
+}
+.whitelink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px/16px;
+	font-style: italic;
+	font-weight: normal;
+	color: #FFFFFF;
+  	text-decoration: underline;
+}
+.whitelink:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px/16px;
+	font-style: italic;
+	font-weight: normal;
+	color: #FFFFFF;
+  	text-decoration: underline;
+}
+a.navlink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: white;
+	text-decoration:none;
+}
+a.navlink:visited {
+  color: white;
+}
+a.navlink:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+  text-decoration: none;
+	font-weight: normal;
+	color: #312B78;
+}
+
+.bottomlink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #af8cb4;
+}
+.verdanalink{
+	font-size: 16px;
+	color: #af8cb4;
+	font-family:Verdana, Arial, Helvetica, sans-serif
+}
+
+.verdanalink:hover{
+	text-decoration: underline;
+}
+
+.footerText {
+	font-size:10px;
+	color: #999;
+}
+
+p.big {line-height:150%;}
+
+p { padding: 0 0px 0 0;  }
+
+
+.title {
+	font-family: trajan-pro-3, serif;
+	font-style: italic;
+	text-decoration: underline;
+	color: #7F7BDA;
+	font-weight: 300;
+	font-size: 33px;
+	text-shadow: 3px 5px 5px #666666;
+	padding-bottom: 15px;
+}
+
+.buy_books {grid-area: buy_books; font-size: 24px; padding-bottom: 0px; text-align: center}
+.letgo { grid-area: letgo; font-size: 20px}
+.letgo_links { grid-area: letgo_links; font-size: 14px}
+.song { grid-area: song; font-size: 20px}
+.song_links { grid-area: song_links; font-size: 14px}
+.landfall { grid-area: landfall; font-size: 20px}
+.landfall_links { grid-area: landfall_links; font-size: 14px}
+.salt { grid-area: salt; font-size: 20px}
+.salt_links { grid-area: salt_links; font-size: 14px}
+.drought { grid-area: drought; font-size: 20px}
+.drought_links { grid-area: drought_links; font-size: 14px}
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+	'buy_books buy_books'
+    'letgo letgo_links'
+    'song song_links'
+    'landfall landfall_links'
+    'salt salt_links'
+    'drought drought_links';
+  gap: 0px 0px;
+  background-color: #7F7BDA;
+  padding-bottom: 20px;
+  padding: 20px;
+  align-items: center;
+  color: white;
+  margin: auto;
+  width: 60%;
+}
+
+.grid-container > div {
+  background-color: #7F7BDA;
+  padding: 15px
+}

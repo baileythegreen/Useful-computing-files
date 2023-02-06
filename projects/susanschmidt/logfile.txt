@@ -1,0 +1,144 @@
+﻿Started: 11/24/2009 3:36 PM
+
+about.htm - Put operation successful
+author.htm - Put operation successful
+graphics\clip_image002.jpg - Put operation successful
+graphics\clip_image004.jpg - Put operation successful
+img\about.jpg - Put operation successful
+img\bookthumb.jpg - Put operation successful
+img\buyitnow.gif - Put operation successful
+img\buyitnow2.gif - Put operation successful
+img\cover_small.jpg - Put operation successful
+img\dog.jpg - Put operation successful
+img\dog_th.jpg - Put operation successful
+img\iebwd.jpg - Put operation successful
+img\jhupress.jpg - Put operation successful
+img\kiwi173px.jpg - Put operation successful
+img\landfall.jpg - Put operation successful
+img\landfall_th.jpg - Put operation successful
+img\map_bg.jpg - Put operation successful
+img\navigation\abouttheauthor_btn.gif - Put operation successful
+img\navigation\abouttheauthor_btn_f2.gif - Put operation successful
+img\navigation\back.png - Put operation successful
+img\navigation\home_btn.gif - Put operation successful
+img\navigation\home_btn_f2.gif - Put operation successful
+img\navigation\kiwiEditor.jpg - Put operation successful
+img\navigation\kiwiEditor.png - Put operation successful
+img\navigation\navdc.png - Put operation successful
+img\navigation\navigation.htm - Put operation successful
+img\navigation\navigation.html - Put operation successful
+img\navigation\navigation.png - Put operation successful
+img\navigation\navigationNew.html - Put operation successful
+img\navigation\navigationNew.png - Put operation successful
+img\navigation\navigationNew_r1_c1.gif - Put operation successful
+img\navigation\navigationNew_r2_c1.gif - Put operation successful
+img\navigation\navigation_r1_c1.gif - Put operation successful
+img\navigation\navigation_r2_c1.gif - Put operation successful
+img\navigation\PetSitterTitle.jpg - Put operation successful
+img\navigation\PetSitterTitle.png - Put operation successful
+img\navigation\petsitting.html - Put operation successful
+img\navigation\petsitting.jpg - Put operation successful
+img\navigation\petsitting.png - Put operation successful
+img\navigation\petsittingTitle.jpg - Put operation successful
+img\navigation\petsittingTitle.png - Put operation successful
+img\navigation\petsitting_f2.jpg - Put operation successful
+img\navigation\photos_btn.gif - Put operation successful
+img\navigation\photos_btn_f2.gif - Put operation successful
+img\navigation\schedule_btn.gif - Put operation successful
+img\navigation\schedule_btn_f2.gif - Put operation successful
+img\navigation\spacer.gif - Put operation successful
+img\navigation\thebook_btn.gif - Put operation successful
+img\navigation\thebook_btn_f2.gif - Put operation successful
+img\petsittingTitle.jpg - Put operation successful
+img\photos.jpg - Put operation successful
+img\reflect.jpg - Put operation successful
+img\reflect_th.jpg - Put operation successful
+img\relive.jpg - Put operation successful
+img\schedule.jpg - Put operation successful
+img\schmidt_header.jpg - Put operation successful
+img\spacer.gif - Put operation successful
+img\stilpd.jpg - Put operation successful
+img\stilpd_th.jpg - Put operation successful
+img\susan.jpg - Put operation successful
+img\susan_th.jpg - Put operation successful
+img\thebook.jpg - Put operation successful
+img\Thumbs.db - Put operation successful
+img\widelandfall.jpg - Put operation successful
+img\withboat.jpg - Put operation successful
+img\withboat_th.jpg - Put operation successful
+index.htm - Put operation successful
+logs\.htaccess - error occurred - An FTP error occurred - cannot put .htaccess.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\access.log.40.gz - error occurred - An FTP error occurred - cannot put access.log.40.gz.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\access.log.41.gz - error occurred - An FTP error occurred - cannot put access.log.41.gz.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\access.log.42.gz - error occurred - An FTP error occurred - cannot put access.log.42.gz.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\access.log.43.gz - error occurred - An FTP error occurred - cannot put access.log.43.gz.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\access.log.44.gz - error occurred - An FTP error occurred - cannot put access.log.44.gz.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\access.log.45.gz - error occurred - An FTP error occurred - cannot put access.log.45.gz.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\access.log.46.gz - error occurred - An FTP error occurred - cannot put access.log.46.gz.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\access.log.47.gz - error occurred - An FTP error occurred - cannot put access.log.47.gz.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\access.log.48.1.gz - error occurred - An FTP error occurred - cannot put access.log.48.1.gz.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\access.log.48.2 - skipped
+logs\access.log.current - error occurred - An FTP error occurred - cannot put access.log.current.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\ftp.log - skipped
+logs\info.php - Put operation successful
+logs\info.php5 - Put operation successful
+logs\last_traffic - error occurred - An FTP error occurred - cannot put last_traffic.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.db - error occurred - An FTP error occurred - cannot put traffic.db.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.db.info - error occurred - An FTP error occurred - cannot put traffic.db.info.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.db.org - error occurred - An FTP error occurred - cannot put traffic.db.org.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.html\01.html - error occurred - An FTP error occurred - cannot put 01.html.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.html\02.html - error occurred - An FTP error occurred - cannot put 02.html.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.html\03.html - error occurred - An FTP error occurred - cannot put 03.html.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.html\04.html - error occurred - An FTP error occurred - cannot put 04.html.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.html\05.html - error occurred - An FTP error occurred - cannot put 05.html.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.html\06.html - error occurred - An FTP error occurred - cannot put 06.html.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.html\07.html - error occurred - An FTP error occurred - cannot put 07.html.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.html\08.html - error occurred - An FTP error occurred - cannot put 08.html.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.html\09.html - error occurred - An FTP error occurred - cannot put 09.html.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.html\10.html - error occurred - An FTP error occurred - cannot put 10.html.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.html\11.html - error occurred - An FTP error occurred - cannot put 11.html.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.html\12.html - error occurred - An FTP error occurred - cannot put 12.html.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+logs\traffic.html\index.html - error occurred - An FTP error occurred - cannot put index.html.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+petsitting.htm - Put operation successful
+photos.htm - Put operation successful
+resume.htm - Put operation successful
+schedule.htm - Put operation successful
+SSstyles.css - Put operation successful
+thebook.htm - Put operation successful
+txt\SusanSchmidt_Resume.doc - Put operation successful
+
+File activity incomplete. 28 file(s) or folder(s) were not completed.
+Files updated: 76
+Files skipped: 2
+
+Files with errors: 28
+logs\.htaccess
+logs\access.log.40.gz
+logs\access.log.41.gz
+logs\access.log.42.gz
+logs\access.log.43.gz
+logs\access.log.44.gz
+logs\access.log.45.gz
+logs\access.log.46.gz
+logs\access.log.47.gz
+logs\access.log.48.1.gz
+logs\access.log.current
+logs\last_traffic
+logs\traffic.db
+logs\traffic.db.info
+logs\traffic.db.org
+logs\traffic.html\01.html
+logs\traffic.html\02.html
+logs\traffic.html\03.html
+logs\traffic.html\04.html
+logs\traffic.html\05.html
+logs\traffic.html\06.html
+logs\traffic.html\07.html
+logs\traffic.html\08.html
+logs\traffic.html\09.html
+logs\traffic.html\10.html
+logs\traffic.html\11.html
+logs\traffic.html\12.html
+logs\traffic.html\index.html
+
+Finished: 11/24/2009 3:39 PM
