@@ -52,7 +52,7 @@ a:visited {
 }
 a:hover {
 	text-decoration: underline;
-	color: blue;/*#96709b;*/
+	color: #96709b;
 }
 a:active {
 	text-decoration: none;
@@ -125,14 +125,21 @@ a.navlink:hover {
 	font-weight: normal;
 	color: #af8cb4;
 }
+.bottomlink1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+.style1 {font-size: 10px}
+
 .verdanalink{
 	font-size: 16px;
-	color: #af8cb4;
+	color: #7F7BDA;
 	font-family:Verdana, Arial, Helvetica, sans-serif
 }
 
 .verdanalink:hover{
 	text-decoration: underline;
+    color: #312B78;
 }
 
 .footerText {
@@ -152,7 +159,18 @@ p { padding: 0 0px 0 0;  }
 	color: #7F7BDA;
 	font-weight: 300;
 	font-size: 33px;
-	text-shadow: 3px 5px 5px #666666;
+	text-shadow: 3px 5px 5px #555555;
+	padding-bottom: 15px;
+}
+
+a.title:hover {
+	font-family: trajan-pro-3, serif;
+	font-style: italic;
+	text-decoration: underline;
+	color: #312B78;
+	font-weight: 300;
+	font-size: 33px;
+	text-shadow: 3px 5px 5px #555555;
 	padding-bottom: 15px;
 }
 
