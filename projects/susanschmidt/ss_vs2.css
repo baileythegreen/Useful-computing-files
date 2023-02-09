@@ -22,7 +22,7 @@ body { background-color:#ffffff; background-image:url(img/map_bg.jpg);}
 
 .container {width:950px;}
 
-.center3 { padding:30px 30px 30px 30px; font:16px/24px verdana, arial; color:#555555; overflow:hidden; width:800px;}
+.center3 { padding:30px 30px 30px 30px; font-size:16px/24px; font-family:verdana, arial; color:#555555; overflow:hidden; width:800px;}
 
 .content3 { width:950px; background-color:#ffffff; }
 
@@ -143,7 +143,9 @@ a.navlink:hover {
 }
 
 .footerText {
+    font-family:Verdana, Arial, Helvetica, sans-serif;
 	font-size:13px;
+    line-height:24px;
 	color: #999;
 }
 
@@ -177,14 +179,25 @@ a.title:hover {
 .buy_books {grid-area: buy_books; font-size: 24px; padding-bottom: 0px; text-align: center}
 .letgo { grid-area: letgo; font-size: 20px}
 .letgo_links { grid-area: letgo_links; font-size: 14px}
+.letgo_image {grid-area: letgo_image}
+.letgo_blurb {grid-area: letgo_blurb; font-size: 13px/18px}
 .song { grid-area: song; font-size: 20px}
 .song_links { grid-area: song_links; font-size: 14px}
+.song_image {grid-area: song_image}
+.song_blurb {grid-area: song_blurb; font-size: 13px/18px}
 .landfall { grid-area: landfall; font-size: 20px}
 .landfall_links { grid-area: landfall_links; font-size: 14px}
+.landfall_image {grid-area: landfall_image}
+.landfall_blurb {grid-area: landfall_blurb; font-size: 13px/18px}
 .salt { grid-area: salt; font-size: 20px}
 .salt_links { grid-area: salt_links; font-size: 14px}
+.salt_image {grid-area: salt_image}
+.salt_blurb {grid-area: salt_blurb; font-size: 13px/18px}
 .drought { grid-area: drought; font-size: 20px}
 .drought_links { grid-area: drought_links; font-size: 14px}
+.drought_image {grid-area: drought_image}
+.drought_blurb {grid-area: drought_blurb; font-size: 13px/18px}
+.none {grid-area: none;}
 
 .grid-container {
   display: grid;
@@ -208,4 +221,18 @@ a.title:hover {
 .grid-container > div {
   background-color: #7F7BDA;
   padding: 15px
+}
+
+.photo-container {
+    display: grid;
+    grid-template-areas:
+    'none none drought_image drought_image none none'
+    'none none drought_blurb drought_blurb none none'
+    'none letgo_image none none landfall_image none'
+    'letgo_blurb letgo_blurb letgo_blurb landfall_blurb landfall_blurb landfall_blurb'
+    'none song_image none none salt_image none'
+    'song_blurb song_blurb song_blurb salt_blurb salt_blurb salt_blurb';
+    gap: 0px 0px;
+    align-items: center;
+    margin: auto;
 }
