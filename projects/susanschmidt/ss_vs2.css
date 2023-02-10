@@ -10,21 +10,22 @@ body { background-color:#ffffff; background-image:url(img/map_bg.jpg);}
 /* MAJOR PARTS
 ========================================================*/
 
-.wrapper { position:relative; margin:0 auto;  background:#fff; width:950px;overflow:auto}
+.wrapper { position:relative; margin:0 auto;  background:#fff; width:90%;overflow:auto}
 
 .break { clear:both; float:none; font-size:0; line-height:0; }
 
 .across { width:100%; }
 
+.hdr {width:100%; border:0}
 
-.mainpage {margin: auto; width: 950px;}
+.mainpage {margin: auto; width: 90%;}
 
 
-.container {width:950px;}
+.container {width:90%;}
 
-.center3 { padding:30px 30px 30px 30px; font-size:16px/24px; font-family:verdana, arial; color:#555555; overflow:hidden; width:800px;}
+.center3 { padding:30px 30px 30px 30px; font-size:16px/28px; font-family:verdana, arial; color:#555555; overflow:hidden; width:100%;}
 
-.content3 { width:950px; background-color:#ffffff; }
+.content3 { width:90%; background-color:#ffffff; }
 
 img.floatLeft {
     float: left;
@@ -58,7 +59,7 @@ a:active {
 	text-decoration: none;
 	color: #7F7BDA;
 }
-#navMain { background:url(img/navigation/nav_bg.jpg); clear:both; float:none; background-repeat:repeat-x; width:950px; height:31px;}
+#navMain { background:url(img/navigation/nav_bg.jpg); clear:both; float:none; background-repeat:repeat-x; width:100%; height:31px; margin:auto}
 
 .books-rectangle {
   height: 500px;
