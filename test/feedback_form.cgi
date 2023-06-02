@@ -14,12 +14,14 @@ $email_address  = filter_email_header($email_address);
 $feedback = filter_form_data($feedback);
 
 # Email the form data
-open ( MAIL, "| /usr/lib/sendmail -t" );
-print MAIL "From: $email_address\n";
-print MAIL "To: baileythegreen@gmail.com\n";
-print MAIL "Subject: Feedback Form Submission\n\n";
-print MAIL "$feedback\n";
-print MAIL "n.n";
+open ( MAIL, "| /usr/lib/sendmail -t -odq")
+print SENDMAIL << "EOF";
+From: $email_address
+To: baileythegreen@gmail.com
+Subject: Feedback Form Submission
+$feedback
+.
+EOF
 close ( MAIL );
 
 # Print the HTTP header
