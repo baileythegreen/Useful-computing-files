@@ -15,7 +15,7 @@ $feedback = filter_form_data($feedback);
 
 # Email the form data
 open ( MAIL, "| /usr/lib/sendmail -t -odq")
-print SENDMAIL << "EOF";
+print MAIL << "EOF";
 From: $email_address
 To: baileythegreen@gmail.com
 Subject: Feedback Form Submission
