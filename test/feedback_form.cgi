@@ -45,20 +45,20 @@ HTML_PAGE
 sub filter_email_header
 {
 my $form_field = shift;  
-$form_field = filter_form_data($form_field);  
+#$form_field = filter_form_data($form_field);  
 $form_field  =~ s/[nr|!\/<>^$%*&]+/ /g;  
 
 return $form_field ;
 }
 
-sub filter_form_data
-{  my $form_field = shift;
-$form_field  =~ s/From://gi;  
-$form_field  =~ s/To://gi;  
-$form_field  =~ s/BCC://gi;  
-$form_field  =~ s/CC://gi;  
-$form_field  =~ s/Subject://gi;  
-$form_field  =~ s/Content-Type://gi;
+#sub filter_form_data
+#{  my $form_field = shift;
+#$form_field  =~ s/From://gi;  
+#$form_field  =~ s/To://gi;  
+#$form_field  =~ s/BCC://gi;  
+#$form_field  =~ s/CC://gi;  
+#$form_field  =~ s/Subject://gi;  
+#$form_field  =~ s/Content-Type://gi;
 
-return $form_field ;
-}
+#return $form_field ;
+#}
