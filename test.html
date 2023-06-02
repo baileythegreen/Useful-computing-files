@@ -11,13 +11,12 @@ permalink: /test/
     
 Second option:  
 <form method="post" action="feedback_form.cgi">
-  <input type="text" name="email_address"/>
-  <input type="text" name="feedback"/>
+  Email: <input type="text" name="email_address"/>
+  Feedback: <input type="text" name="feedback"/>
   <input type="submit" value="Submit"/>
 </form>  
   
   
 Once you’ve done that, at the very top of your index.html file, you’ll need to add some Jekyll front matter to select the theme layout your page uses. Since you’re using the GitHub Pages 
 
-<p><!--#include virtual="feedback_form.cgi"-->
 </body>
