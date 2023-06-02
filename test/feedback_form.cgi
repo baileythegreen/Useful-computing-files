@@ -11,7 +11,7 @@ my $feedback = $cgi->param('feedback');
 
 # Filter the form data
 $email_address  = filter_email_header($email_address);
-$feedback = filter_form_data($feedback);
+#$feedback = filter_form_data($feedback);
 
 # Email the form data
 open ( MAIL, "| /usr/lib/sendmail -t -odq")
