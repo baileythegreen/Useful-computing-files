@@ -6,18 +6,18 @@ use CGI;
 my $cgi = new CGI;
 
 # Get the form data
-my $email_address = $cgi->param('email_address');
-my $feedback = $cgi->param('feedback');
+my $email_address = "baileythegreen\@gmail.com"; #$cgi->param('email_address');
+my $feedback = "This is an email."; #$cgi->param('feedback');
 
 # Filter the form data
 $email_address  = filter_email_header($email_address);
 #$feedback = filter_form_data($feedback);
 
 # Email the form data
-open ( MAIL, "| /usr/lib/sendmail -t -odq")
+open ( MAIL, "| /usr/sbin/sendmail -t -odq");
 print MAIL << "EOF";
 From: $email_address
-To: baileythegreen@gmail.com
+To: baileythegreen\@gmail.com
 Subject: Feedback Form Submission
 $feedback
 .
